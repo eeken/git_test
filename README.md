@@ -13,3 +13,7 @@ jorden är platt
 
 
 är jorden platt eller rund
+
+
+
+change from git
